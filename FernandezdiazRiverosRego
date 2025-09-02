@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tu tienda online preferida</title>
+</head>
+<body>
+
+    <h1>hola, bienvenido a nuestra tienda online</h1>
+    <p>tu lugar para encontrar lo mejor en tecnologia y mucho mas.</p>
+
+    <h2>nuestros productos estrella</h2>
+
+    <p>
+        que bueno que nos elegiste. te mostramos una seleccion de lo mas popular y de mejor calidad que tenemos.
+    </p>
+    <p>
+        siempre estamos renovando el stock para que nuestros clientes esten satisfechos.
+    </p>
+    <p>
+        echale un vistazo a las categorias y no te pierdas las ofertas. y si te da alguna duda, contacta con nosotros.
+    </p>
+
+    <img src="https://static.nb.com.ar/img/77ab832333c47543d01b7b85cd843197.jpeg" alt="notebook gamer">
+    <img src="https://compucellservice.com/wp-content/uploads/2024/12/Celular-Apple-iPhone-14-png1.png" alt="celular">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj__dCUcpY1TNpAzwePmGecA_Vn2YzsYOsBw&s" alt="auriculares">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSogissd_VItov1LYprUSNdaFPOj4NBCLv4sg&s" alt="reloj inteligente">
+
+    <p>
+        necesitas ayuda? <a href="https://mail.google.com/mail/u/0/?hl=es_419#inbox" target="_blank">contactanos aqui</a>.
+    </p>
+
+    <p>Envia tu mensaje en el correo santiago19riveros@gmail.com</p>
+
+    <hr>
+
+    <h2>los detalles tecnicos, para que no te lleguen sorpresas.</h2>
+    <p>
+        si sos de los que se fijan en todo, aca te dejamos una tabla con las especificaciones clave de algunos de nuestros productos.
+    </p>
+    <table>
+        <thead>
+            <tr>
+                <th>producto</th>
+                <th>caracteristicas</th>
+                <th>especificaciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>notebook gamer</td>
+                <td>procesador</td>
+                <td>intel core i7 de ultima generacion</td>
+            </tr>
+            <tr>
+                <td>notebook gamer</td>
+                <td>memoria ram</td>
+                <td>16 gb</td>
+            </tr>
+            <tr>
+                <td>celular</td>
+                <td>pantalla</td>
+                <td>6.5 pulgadas oled</td>
+            </tr>
+            <tr>
+                <td>celular</td>
+                <td>camara</td>
+                <td>48 mp</td>
+            </tr>
+            <tr>
+                <td>reloj inteligente</td>
+                <td>bateria</td>
+                <td>dura hasta 48hs</td>
+            </tr>
+            <tr>
+                <td>auriculares</td>
+                <td>tecnologia</td>
+                <td>cancelacion de ruido</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr>
+
+    <h2>explora por categorias</h2>
+    <p>
+        aca tenes todo organizado para que encuentres lo que buscas.
+    </p>
+    <ul>
+        <li>electronica
+            <ul>
+                <li>celulares y accesorios</li>
+                <li>computadoras y notebooks</li>
+                <li>audio y video</li>
+            </ul>
+        </li>
+        <li>hogar
+            <ul>
+                <li>electrodomesticos</li>
+                <li>muebles y decoracion</li>
+            </ul>
+        </li>
+        <li>deportes y actividades al aire libre
+            <ul>
+                <li>ropa deportiva</li>
+                <li>articulos para la aventura</li>
+            </ul>
+        </li>
+    </ul>
+
+</body>
+</html>
